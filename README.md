@@ -5,5 +5,5 @@
 - ---------------
     git clone https://github.com/TrapeCipher/PyFinder.git
     pip install -r requirements.txt
-    python3 scan
+    python3 scan.py
 - ---------------
